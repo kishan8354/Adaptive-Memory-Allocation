@@ -34,7 +34,7 @@
 
 This project implements **nine memory allocators** ranging from trivial wrappers to research-grade designs, all sharing a unified base class (`Allocator`) and instrumented with allocation metrics. 
 
-| Novelty | Allocator | Why it matters |
+|_____ | Allocator | Why it matters |
 |---|---|---|
 | O(1) worst-case alloc/free | **TLSF** | Real-time and embedded systems safety |
 | Power-of-2 coalescing with XOR buddy trick | **Buddy** | OS kernel allocator design pattern |
