@@ -1,6 +1,6 @@
 # Advanced C++ Memory Allocators
 
-A thesis-level implementation of **9 memory allocators** in C++17, featuring novel contributions including a real-time O(1) TLSF allocator, cache-colored slab allocator, XOR-buddy system, and an online adaptive allocator that profiles its own workload and switches strategy automatically.
+A implementation of **9 memory allocators** in C++17, featuring novel contributions including a real-time O(1) TLSF allocator, cache-colored slab allocator, XOR-buddy system, and an online adaptive allocator that profiles its own workload and switches strategy automatically.
 
 > Built as a graduate-level systems project. All allocators share a unified base class, full allocation metrics, canary-based corruption detection, and a statistical benchmark suite (mean · median · stddev · P95 · P99).
 
