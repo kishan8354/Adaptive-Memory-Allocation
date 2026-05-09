@@ -1,6 +1,6 @@
 # Advanced C++ Memory Allocators — Complete Documentation
 
-> **Thesis-Level Implementation** | C++17 | 9 allocator types | Statistical benchmarking suite
+> **The Implementation** | C++17 | 9 allocator types | Statistical benchmarking suite
 
 ---
 
