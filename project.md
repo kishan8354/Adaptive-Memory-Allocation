@@ -32,7 +32,7 @@
 
 ## 1. Project Overview
 
-This project implements **nine memory allocators** ranging from trivial wrappers to research-grade designs, all sharing a unified base class (`Allocator`) and instrumented with allocation metrics. It was designed to demonstrate thesis-level novelty including:
+This project implements **nine memory allocators** ranging from trivial wrappers to research-grade designs, all sharing a unified base class (`Allocator`) and instrumented with allocation metrics. 
 
 | Novelty | Allocator | Why it matters |
 |---|---|---|
