@@ -54,7 +54,7 @@ Measured on Linux, `Release` build, `-O2`, 32 768 operations per run, 10 runs.
 
 ---
 
-## Novel Contributions
+-------------------------
 
 ### 1 · TLSF — O(1) Real-Time Allocator
 
